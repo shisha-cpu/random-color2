@@ -1,0 +1,43 @@
+body{
+  background-color: #1d1d1d;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+  margin: 0 auto;
+  text-align: center;
+  color: aliceblue;
+  border: 2px solid white;
+  height: 300px;
+  width: 300px;
+
+  box-shadow: 10px 10px 5px;
+  margin-top: 300px;
+  font-size: 20px;
+}
+.container:hover{
+  height: 500px;
+  width: 500px;
+    border-radius: 50px;
+    transition: all 700ms;
+    margin-top: 220px;
+    font-size: 30px;
+    
+}
+
+button{
+  width: 150px;
+  height: 70px;
+  border-radius: 20px;
+cursor: pointer;
+font-size: 30px;
+
+box-shadow: 10px 10px 5px;
+
+}
+.title{
+  color: aliceblue;
+}
+button:hover{
+
+  transition: all 500m
+}
